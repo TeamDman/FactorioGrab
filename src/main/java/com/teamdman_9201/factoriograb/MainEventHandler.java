@@ -35,7 +35,6 @@ public class MainEventHandler {
             }
             if (block instanceof BlockContainer) {
                 BlockContainer container = (BlockContainer) block;
-                container
             }
         }
     }
